@@ -1,4 +1,4 @@
-package pl.edu.agh.student.pgajda.pokebocik.server;
+package pl.edu.agh.student.pgajda.pokebocik;
 
 import com.google.wave.api.*;
 
