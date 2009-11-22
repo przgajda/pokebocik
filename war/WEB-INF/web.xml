@@ -7,7 +7,7 @@
 
     <servlet>
         <servlet-name>Pokebocik</servlet-name>
-        <servlet-class>pl.edu.agh.student.pgajda.pokebocik.server.PokebocikServlet</servlet-class>
+        <servlet-class>pl.edu.agh.student.pgajda.pokebocik.PokebocikServlet</servlet-class>
     </servlet>
     
     <servlet-mapping>
@@ -17,7 +17,7 @@
     
     <servlet>
         <servlet-name>Profile</servlet-name>
-        <servlet-class>pl.edu.agh.student.pgajda.pokebocik.server.Profile</servlet-class>
+        <servlet-class>pl.edu.agh.student.pgajda.pokebocik.Profile</servlet-class>
     </servlet>
     
     <servlet-mapping>
